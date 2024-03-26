@@ -1,0 +1,422 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Péter Józan",
+    "label": "Software engineer - Industrial automation from #PLC to #MES and beyond",
+    "image": "",
+    "email": "jozanpeter@gmail.com",
+    "phone": "",
+    "url": "",
+    "summary": "I have 10+ years engineering experience in various industrial sectors: FMCG, Automotive and Paper. I have a huge passion for solving issues in complex enviroment. I always want to see the whole picture and understand relations/logical connections. I love to learn and gain useful knowledge and I am motivated by developing and improving valuable solutions which makes life easier.",
+    "location": {
+      "countryCode": "HU",
+      "address": "Hungary"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "peterjozan",
+        "url": "https://www.linkedin.com/in/peterjozan/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "HEITEC Hungary Kft.",
+      "position": "Senior Software Engineer",
+      "startDate": "2022-10-31",
+      "endDate": "",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/heitec-hungary-kft/"
+    },
+    {
+      "name": "Musashi Hungary Manufacturing Ltd.",
+      "position": "Process Engineer - Factory Automation",
+      "startDate": "2019-04-30",
+      "endDate": "2022-09-30",
+      "highlights": [],
+      "summary": "Key person specialized in automation: creating the automation concept, designing interfaces between machines, cooperation with suppliers. Develop PLC and robot programs for production cell based on ISA-TR:88 standard package as a leading engineer.\n\nAs well I support startup and serial operation with my knowledge: troubleshooting machine faults and breakdowns or even manufacturing issues. My main focus area is capability building: share my knowledge with other engineers/experts and train operators, technicians.",
+      "url": ""
+    },
+    {
+      "name": "Musashi Hungary Manufacturing Ltd.",
+      "position": "Maintenance Engineer",
+      "startDate": "2015-06-30",
+      "endDate": "2019-04-30",
+      "highlights": [],
+      "summary": "Planning periodic maintenance on CNC lathing/grinding machines and machining centres, robots and post process measuring machines. Troubleshooting machine failures and participate in mind-storming in order to solve technological issues.\nSupport line startups and establish new functionalities: integrate additional equipment in order to eliminate scrap parts production, programming technology specific M-codes for cycle time reduction, fine tuning Fanuc robot programs.",
+      "url": ""
+    },
+    {
+      "name": "Procter & Gamble",
+      "position": "Production Line-Duo Manager",
+      "startDate": "2013-06-30",
+      "endDate": "2015-05-31",
+      "highlights": [],
+      "summary": "Leader of a 21-member team, responsible for production in terms of safety, quality and every KPI of the manufacturing process (MPSP, Scrap, MU, RCO, Budget).",
+      "url": "https://www.linkedin.com/company/procter-and-gamble/"
+    },
+    {
+      "name": "Procter & Gamble",
+      "position": "Process Engineer",
+      "startDate": "2013-03-31",
+      "endDate": "2013-06-30",
+      "highlights": [],
+      "summary": "Leading loss eliminating projects achieving 115 000 USD annual savings. For example a 90% scrap reduction\r\nby finding the appropriate technological parameters and maintain results via the proper system.",
+      "url": "https://www.linkedin.com/company/procter-and-gamble/"
+    },
+    {
+      "name": "LCM Stanc Kft.",
+      "position": "Designer and Maintenance engineer",
+      "startDate": "2012-01-31",
+      "endDate": "2013-03-31",
+      "highlights": [],
+      "summary": "Deploying maintenance system to the complete tool manufacturing works: eliminating unplanned stops\r\nbesides decreasing maintenance costs. Decreasing water cutting machine annual maintenance cost by 65% \r\ndue to performing tasks internally.",
+      "url": ""
+    },
+    {
+      "name": "Coca-Cola Hellenic Bottling Company",
+      "position": "Maintenance Trainee",
+      "startDate": "2011-01-31",
+      "endDate": "2012-01-31",
+      "highlights": [],
+      "summary": "Diagnostic analysis on drive elements: achieving 0 hours unplanned stop based on reliable predictions of\r\nfailures. I have prepared a training material of the measurements with a measuring calendar and a map.",
+      "url": "https://www.linkedin.com/company/coca-cola-hbc/"
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Budapest University of Technology and Economics",
+      "area": "Manufacturing Engineering",
+      "studyType": "Mechanical engineer (BSc)",
+      "startDate": "",
+      "endDate": "2012-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Fanuc Robot programming TPEB",
+      "issuer": "FANUC Hungary"
+    },
+    {
+      "name": "Fanuc Robot communication protocols RCOM",
+      "issuer": "FANUC Hungary"
+    },
+    {
+      "name": "Fanuc Dual Check Safety DCS",
+      "issuer": "FANUC Hungary"
+    },
+    {
+      "name": "CATIA 3D modeling and drafting",
+      "issuer": "CAD-Terv Engineering Ltd."
+    },
+    {
+      "name": "Cognex In-sight spreadsheet",
+      "issuer": "Cognex Corporation"
+    },
+    {
+      "name": "Advanced PLC programmer",
+      "issuer": "Meltrade Automatika Ltd."
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Problem Solving",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "ISA TR:95",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Transact-SQL (T-SQL)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PostgreSQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Corrective and Preventive Action (CAPA)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SIMATIC STEP 7",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Six Sigma",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Web Applications",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Vibration Analysis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Computer Numerical Control (CNC)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "System Architecture",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Priority Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cascading Style Sheets (CSS)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Siemens Tia Portal",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Fanuc Robots",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Lean Manufacturing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "T-SQL Stored Procedures",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Computer-Aided Design (CAD)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SAP PM Module",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Bootstrap (Framework)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Visual Basic",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Excel",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Project Planning",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Servant Leadership",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Engineering",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Automation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C (Programming Language)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Software Architecture",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Azure",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Database Design",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Visio",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Architecture",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SAP Materials Management (SAP MM)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Process Improvement",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Data Analysis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Statistical Process Control (SPC)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Programmable Logic Controller (PLC)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Front-End Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Responsive Web Design",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Unit Testing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SQL Server Management Studio",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Manufacturing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Maintenance Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Workplace Safety",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Profinet",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HTML",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "ISA TR:88",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "fluency": "Professional Working",
+      "language": "English"
+    },
+    {
+      "fluency": "Native Speaker",
+      "language": "Hungarian"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [
+    {
+      "name": "MES development",
+      "startDate": "2020-06-30",
+      "summary": "Factory standard database design based on past experiences and ISA-TR:95 standard package. Designing interfaces between server-hosts, coding stored procedures, development host side programs (PC/PLC). Designing and implementing feedback loops to machines and humans (machine setters/process- and quality engineers / production leaders).",
+      "url": null,
+      "endDate": "2020-06-30"
+    },
+    {
+      "name": "DC5 Differential Case manufacturing line startup",
+      "startDate": "2021-02-28",
+      "summary": "Responsible for automation and programming:\n- creating the automation concept\n- standarized PLC program architecture design (based on ISA-TR:88)\n- designing interfaces between machines\n- field network design\n- cooperation with suppliers (Murata, Nakamura-Tome, JTEKT, Renishaw, Cognex)\n- Line controlling PLC program development (create sub-tasks and delegate to team members, work coordination)\n- Fanuc M-20-iD/35M Robot programming\n- creating MES connection between Siemens S7-1500 and SQL Server via Microsoft TDS protocol",
+      "url": null,
+      "endDate": "2022-03-31"
+    },
+    {
+      "name": "DC4 Differential Case manufacturing line startup",
+      "startDate": "2019-12-31",
+      "summary": "Responsible for automation and line installation:\n- creating the automation concept\n- designing interfaces between machines\n- cooperation with suppliers (Nakamura-Tome, JTEKT, Mitsubishi, Renishaw, Cognex)\n- creating MES connection between Siemens S7-1500 and SQL Server via Microsoft TDS protocol",
+      "url": null,
+      "endDate": "2020-08-31"
+    },
+    {
+      "name": "DC2 Differential Case manufacturing line startup",
+      "startDate": "2019-04-30",
+      "summary": "Project coordination with sub-suppliers in order to start mass production with following machines:\n- EMAG VL4 customized vertical lathing machines with Fanuc 31i control\n- EMAG VSC250DD customized vertical lathing machine with Fanuc 31i control\n- EMAG TrackMotion loading system\n- Quantum Lasertech marking machine\n- Renishaw Equator 500 PPMs\n\nFinal visual inspection station PLC programming\n\nDatabase design for workpiece tracability and QA functions (missed process step, double processing workpieces, workpiece related data registration)",
+      "url": null,
+      "endDate": "2020-03-31"
+    },
+    {
+      "name": "DC3 Differential Case manufacturing line startup",
+      "startDate": "2019-04-30",
+      "summary": "Project coordination with sub-suppliers in order to start mass production with following machines:\n- EMAG VL4 machine (standard machines)\n- Scherer-Feinbau VDZ 320 XL vertical lathing machine with Siemens 840D SL control\n- Quantum Lasertech marking machine and robot cell\n- Renishaw Equator 500 PPM\n\nTechnology setup of sandard EMAG VL4 machines:\n- CNC programming and technology transfer from other lines\n- designing workpiece fixtures\n- design and implementation of Poka-Yoke (prevention of missed step and double-processing)\n- PLC programming of custom functions\n\nFinal visual inspection station PLC programming\n\nDatabase design for workpiece tracability and QA functions (missed process step, double processing workpieces, workpiece related data registration)",
+      "url": null,
+      "endDate": "2020-01-31"
+    }
+  ],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
